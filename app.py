@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import datetime
 
 # Title of the app
-st.title("Sambutan Selamat Datang")
+st.title("Assalamualaikum")
 
 # Input form for user's name
 name = st.text_input("Masukkan Nama Anda:", "")
